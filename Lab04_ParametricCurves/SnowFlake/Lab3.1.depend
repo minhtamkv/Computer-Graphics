@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1412172574 source:f:\study\study\subject\computer graphics\project\lab3.1\main.cpp
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	<fstream>
+	<iostream>
+	<wtypes.h>
+	<math.h>
+	<vector>
+	<conio.h>
+
+976641772 c:\program files\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
